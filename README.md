@@ -1,5 +1,5 @@
 # Fast Taxi
-#### Description: Fast Taxi is game basic taxi game. In a straight road  we drive and looking for a customer. When we see it then stop in front of it and game ask us to are you accept customer.
+#### Description: Fast Taxi is a basic taxi game. In a straight road  we drive and looking for a customer. When we see it then stop in front of it and game ask us to are you accept customer.
 
 ### Game Rules
 We have following attributes in game:
